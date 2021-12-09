@@ -445,8 +445,8 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="col-md-3">
-                        <img src="assets/img/team/22.JPG" alt="" srcset="">
+                    <div class="col-md-5">
+                        <img src="assets/img/team/22.JPG" alt="" srcset="" style="width: 100%; height: 70%;">
                     </div>
                 </div>
             </div>
