@@ -267,7 +267,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/88.jpg" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/portfolio/88.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Covid-19 Material</div>
@@ -282,7 +282,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/team/33.jpg" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/team/33.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Meat Distribution</div>
@@ -307,7 +307,7 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/44.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/44.JPG" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>209-2020</h4>
@@ -319,7 +319,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/11.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/11.JGP" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>March 2020</h4>
@@ -333,7 +333,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/22.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/22.JPG" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>December 2020</h4>
@@ -348,7 +348,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/33.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/33.JPG" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>July 2020</h4>
@@ -532,7 +532,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/33.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="assets/img/team/33.JPG" alt="..." />
                             <h4>Nasoro Kajanga</h4>
                             <p class="text-muted">Chief Finance Officer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
