@@ -319,7 +319,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/11.JGP" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/11.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>March 2020</h4>
@@ -512,7 +512,7 @@
                 <div class="row">
                     <div class="col-lg-12 h-100 d-flex justify-content-center align-items-center">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/11.jpg" alt="..." />
+                            <img class="mx-auto rounded-circle" src="assets/img/team/11.JPG" alt="..." />
                             <h4>Ismail Adrien</h4>
                             <p class="text-muted">Founder - Chairman and CEO</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -751,7 +751,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Distribution</h2>
                                     <p class="item-intro text-muted">Uvira city and Dzaleka Refugee Camp</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/33.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/33.JPG" alt="..." />
                                     <p>
                                         In 2020, we have Distributed Iftar in DRC to 500 Households beneficiary in Uvira Territory and 300 households in Dzaleka refugee Camp / Malawi. We have also distributed qurbani 10 cows in DRC - plaine of Ruzizi and 7 in dzaleka refugee camp Malawi.
                                         In 2021, We have distributed Iftar meats for 14 Cow in holly Month of Ramadhan in 14 Masjid in DRC- Uvira Territory. We also distributed more than 300 food Packed in Sange city and 250 in dzaleka refugee camp Malawi.
@@ -939,7 +939,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Covid-19 Materials</h2>
                                     <p class="item-intro text-muted">Sange Refugees Transit Camp</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/88.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/88.JPG" alt="..." />
                                     <p>
                                         We have Distributed more than 2000 Face mask in Ruzizi and Sange Refugees Transit Camp.
                                     </p>
@@ -976,7 +976,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Meat Distribution</h2>
                                     <p class="item-intro text-muted">Dzaleka Refugee Camp, Dowa, Malawi.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/team/33.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/team/33.JPG" alt="..." />
                                     <p>
                                         We have distributed 300 Meat packed to more than 300 Households Refugees in Malawi and Hosting community in November 2021
                                     </p>
