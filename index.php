@@ -406,7 +406,7 @@
             </div>
         </section>
         <!-- Goals and Objectives -->
-        <section class="page-section bg-light" id="goals_and_objectives">
+        <section class="page-section" id="goals_and_objectives">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Objectives and Goals</h2>
@@ -414,7 +414,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-7">
-                        <ul >
+                        <ul class="list-unstyled">
                             <li>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -452,7 +452,7 @@
             </div>
         </section>
         <!-- Our values -->
-        <section class="page-section bg-light" id="values" style="100%">
+        <section class="page-section" id="values" style="100%">
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Our values</h2>
