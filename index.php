@@ -190,7 +190,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/33.jpg" alt="..." style="width: 100%; height: 200px;" />
+                                <img class="img-fluid" src="assets/img/portfolio/33.JPG" alt="..." style="width: 100%; height: 200px;" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Distribution</div>
