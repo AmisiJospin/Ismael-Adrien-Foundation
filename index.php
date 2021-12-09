@@ -160,7 +160,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/projects/18.JPG" height="100%" width="100%" alt="..."  style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/projects/18.jpg" height="100%" width="100%" alt="..."  style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Training</div>
@@ -175,7 +175,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/projects/16.JPG" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/projects/16.jpg" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">School Rehabilitation</div>
@@ -190,7 +190,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/33.JPG" alt="..." style="width: 100%; height: 200px;" />
+                                <img class="img-fluid" src="assets/img/portfolio/33.jpg" alt="..." style="width: 100%; height: 200px;" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Distribution</div>
@@ -205,7 +205,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/projects/13.JPG" alt="..." style="width: 100%; height: 200px;" />
+                                <img class="img-fluid" src="assets/img/projects/13.jpg" alt="..." style="width: 100%; height: 200px;" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Food Parcel</div>
@@ -220,7 +220,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/projects/9.JPG" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/projects/9.jpg" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Healthcare</div>
@@ -235,7 +235,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/projects/15.JPG" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/projects/15.jpg" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Tailoring Machine</div>
@@ -252,7 +252,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/projects/6.JPG" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/projects/6.jpg" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Borehole</div>
@@ -267,7 +267,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/88.JPG" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/portfolio/88.jpg" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Covid-19 Material</div>
@@ -282,7 +282,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/team/33.JPG" alt="..." style="width: 100%; height: 200px;"/>
+                                <img class="img-fluid" src="assets/img/team/33.jpg" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Meat Distribution</div>
@@ -307,7 +307,7 @@
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/44.JPG" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/44.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>209-2020</h4>
@@ -319,7 +319,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/11.JPG" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/11.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>March 2020</h4>
@@ -333,7 +333,7 @@
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/22.JPG" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/22.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>December 2020</h4>
@@ -348,7 +348,7 @@
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/33.JPG" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/33.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>July 2020</h4>
@@ -512,7 +512,7 @@
                 <div class="row">
                     <div class="col-lg-12 h-100 d-flex justify-content-center align-items-center">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/11.JPG" alt="..." />
+                            <img class="mx-auto rounded-circle" src="assets/img/team/11.jpg" alt="..." />
                             <h4>Ismail Adrien</h4>
                             <p class="text-muted">Founder - Chairman and CEO</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -522,7 +522,7 @@
                     </div>
                     <!-- <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/22.JPG" alt="..." />
+                            <img class="mx-auto rounded-circle" src="assets/img/team/22.jpg" alt="..." />
                             <h4>Mariamu Bagula</h4>
                             <p class="text-muted">Treasury</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -532,7 +532,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/33.JPG" alt="..." />
+                            <img class="mx-auto rounded-circle" src="assets/img/team/33.jpg" alt="..." />
                             <h4>Nasoro Kajanga</h4>
                             <p class="text-muted">Chief Finance Officer</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
@@ -677,7 +677,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Training</h2>
                                     <p class="item-intro text-muted">Uvira territory</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/18.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/18.jpg" alt="..." />
                                     <p>
                                         In 2019, We trained 100 Widows in different trades in Uvira Territory and support 91 of them with small capital to undertake small income generating activities in order to fight poverty and misery in their Households or community.
                                     </p>
@@ -714,7 +714,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">School Rehabilitation</h2>
                                     <p class="item-intro text-muted">Plaine of Ruzizi</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/16.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/16.jpg" alt="..." />
                                     <p>
                                         In 2019, We rehabilitated Muslim School in Plaine of Ruzizi  
                                     </p>
@@ -751,7 +751,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Distribution</h2>
                                     <p class="item-intro text-muted">Uvira city and Dzaleka Refugee Camp</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/33.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/33.jpg" alt="..." />
                                     <p>
                                         In 2020, we have Distributed Iftar in DRC to 500 Households beneficiary in Uvira Territory and 300 households in Dzaleka refugee Camp / Malawi. We have also distributed qurbani 10 cows in DRC - plaine of Ruzizi and 7 in dzaleka refugee camp Malawi.
                                         In 2021, We have distributed Iftar meats for 14 Cow in holly Month of Ramadhan in 14 Masjid in DRC- Uvira Territory. We also distributed more than 300 food Packed in Sange city and 250 in dzaleka refugee camp Malawi.
@@ -789,7 +789,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Food Parcel</h2>
                                     <p class="item-intro text-muted">Sange and Dzaleka Refugee Camp</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/13.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/13.jpg" alt="..." />
                                     <p>
                                         In 2021, We have Distributed Food Parcel to 100 Older people in Dzaleka Refugee camp Malawi and 100 in DRC Sange City.
                                     </p>
@@ -826,7 +826,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Healthcare</h2>
                                     <p class="item-intro text-muted">Sange and Kanga Village</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/9.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/9.jpg" alt="..." />
                                     <p>
                                         In 2021, We have started to built Healthcare in Kanga Village / DRC. 
                                         We organized 4 awareness sessions on menstrual hygiene, Covid19 and distributed 500 Cotex to young girls and widows in Sange City. 
@@ -864,7 +864,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Tailoring Machine</h2>
                                     <p class="item-intro text-muted">Kanga village & Plaine of Ruzizi</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/15.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/15.jpg" alt="..." />
                                     <p>
                                     	In 2021, We have started to built Healthcare in Kanga Village / DRC and we have provided 20 widows with tailoring machine in Plaine of Ruzizi.
                                     </p>
@@ -902,7 +902,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Borehole Construction</h2>
                                     <p class="item-intro text-muted">In Uvira Territory</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/6.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/6.jpg" alt="..." />
                                     <p>
                                         We have built 1 Bowell water in DRC - Kigoma Village.
                                     </p>
@@ -939,7 +939,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Covid-19 Materials</h2>
                                     <p class="item-intro text-muted">Sange Refugees Transit Camp</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/88.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/88.jpg" alt="..." />
                                     <p>
                                         We have Distributed more than 2000 Face mask in Ruzizi and Sange Refugees Transit Camp.
                                     </p>
@@ -976,7 +976,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Meat Distribution</h2>
                                     <p class="item-intro text-muted">Dzaleka Refugee Camp, Dowa, Malawi.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/team/33.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/team/33.jpg" alt="..." />
                                     <p>
                                         We have distributed 300 Meat packed to more than 300 Households Refugees in Malawi and Hosting community in November 2021
                                     </p>
