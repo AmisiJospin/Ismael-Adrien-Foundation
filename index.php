@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>IAF - Ismail Adrien Foundation</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="assets/img/logos/logo.png" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -15,12 +15,23 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/main.css" rel="stylesheet" />
+        <style>
+            .contact-us{
+                margin: 5px 10px;
+                list-style-type: none;
+            }
+
+            .list-item{
+                margin: 8px 10px;
+            }
+        </style>
     </head>
     <body id="page-top">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><!--<img src="assets/img/navbar-logo.svg" alt="..." />-->IAF Foundation</a>
+                <a class="navbar-brand" href="#page-top"><!--<img src="assets/img/navbar-logo.svg" alt="..." />--><img src="assets/img/logos/logo.png" width="80px" height="50px" alt="" srcset="">IAF Foundation</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -145,11 +156,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 1-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/11.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/projects/18.JPG" height="100%" width="100%" alt="..."  style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Training</div>
@@ -160,11 +171,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 2-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2"  style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/22.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/projects/16.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">School Rehabilitation</div>
@@ -175,11 +186,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4">
                         <!-- Portfolio item 3-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/33.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/33.JPG" alt="..." style="width: 100%; height: 200px;" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Distribution</div>
@@ -190,11 +201,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
                         <!-- Portfolio item 4-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/44.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/projects/13.JPG" alt="..." style="width: 100%; height: 200px;" />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Food Parcel</div>
@@ -205,11 +216,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                         <!-- Portfolio item 5-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/55.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/projects/9.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Healthcare</div>
@@ -220,11 +231,11 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 6-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/66.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/projects/15.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Tailoring Machine</div>
@@ -237,11 +248,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
                         <!-- Portfolio item 7-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal7">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal7" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/77.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/projects/6.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Borehole</div>
@@ -252,11 +263,11 @@
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
                         <!-- Portfolio item 8-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal8">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal8" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/88.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/portfolio/88.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Covid-19 Material</div>
@@ -267,11 +278,11 @@
                     <div class="col-lg-4 col-sm-6">
                         <!-- Portfolio item 9-->
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal9">
+                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal9" style="height: 200px;">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/99.JPG" alt="..." />
+                                <img class="img-fluid" src="assets/img/team/33.JPG" alt="..." style="width: 100%; height: 200px;"/>
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Meat Distribution</div>
@@ -363,6 +374,134 @@
                 </ul>
             </div>
         </section>
+        <!-- Mission Statement -->
+        <section class="page-section bg-light" id="mission">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Mission and Vision</h2>
+                    <h3 class="section-subheading text-muted">Our mission statement and vison are:</h3>
+                </div>
+                <ul class="timeline">
+                    <li>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="subheading">Our Mission</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">
+                                Ismail Adrien Foundation Incorporated (IAFI’s) mssion is to Build Hope and bridges gaps between people of different cultures.</p></div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="subheading">Vison</h4>
+                            </div>
+                            <div class="timeline-body"><p class="text-muted">
+                                Our vision to unite peoples and serving humanity.
+                                We work with our our motto “let’s help because we will be rewarded by Allah”
+                            </p></div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!-- Goals and Objectives -->
+        <section class="page-section bg-light" id="goals_and_objectives">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Objectives and Goals</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+                <div class="row">
+                    <div class="col-md-7">
+                        <ul >
+                            <li>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4 class="subheading">Our goals and objectives are:</h4>
+                                    </div>
+                                    <div class="timeline-body"><p class="text-muted">
+                                        <ol class="list-group"> 
+                                            <li class="list-item text-muted">
+                                                To mobilize people and funds from capable and willing people of different communities and
+                                                Local, National, International Organizations, and disburse same to all qualified needy people,
+                                                with focus on Disaster – Relief, Education, Healthcare, Development, Water, Nutrition’s
+                                                supplements, Agricultural and economic empowerment matters;
+                                            </li>
+                                            <li class="list-item text-muted">
+                                                To organize training workshops, seminars, guidance and counseling sessions, for young
+                                                graduate and Adult to improve their skills and employment.
+                                            </li>
+                                            <li class="list-item text-muted">Empowering communities to emerge from poverty and vulnerability.</li>
+                                            <li class="list-item text-muted">
+                                                Reducing the Humanitarian impact of conflicts and natural disasters. We are increasing our
+                                                capacity to respond rapidly to disaster and building a global reputation for delivering
+                                                emergency Aid.</li>
+                                            <li class="list-item text-muted">Promote the talent and cultures of Community and people from across the globe.</li>
+                                            <li class="list-item text-muted">Eliminate poverty, hunger – malnutrition and promote food security for homeless.</li>
+                                        </ol>
+                                        </p></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3">
+                        <img src="assets/img/team/22.JPG" alt="" srcset="">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Our values -->
+        <section class="page-section bg-light" id="values" style="100%">
+            <div class="container">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">Our values</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+                <div class="row" style="width: 100%;">    
+                          
+                    <div class="col-md-5">
+                        <img src="assets/img/portfolio/77.JPG" width="100%" alt="" srcset="">
+                    </div>
+                    <div class="col-md-7" style="padding-left: 20px;">
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4 class="subheading">IAF FOUNDATION is guided by the following values:</h4>
+                            </div>
+                            <div class="text-muted">
+                                <ol class="list-group list-unstyled"> 
+                                    <li class="list-item text-muted">
+                                    <b>TRUSTED:</b> Trusted through sincerity, transparency and accountability in everything we do.
+                                    </li>
+                                    <li class="list-item text-muted">
+                                    <b>EFFICIENT:</b> Efficient by lowering overheads through adopting world class methodologies, frameworks, and self-sustainability.
+                                    </li>  
+                                    <li class="list-item text-muted">
+                                    <b>IMPACTFUL:</b> Focusing on impactful humanitarian aid programmes that make a sustainable different.
+                                    </li>  
+                                    <li class="list-item text-muted">
+                                    <b>SMART:</b> undertaking smart projects and making a difference that matters.
+                                    </li>  
+                                    <li class="list-item text-muted">
+                                    <b>SUSTAINABLE:</b> Being sustainable springs from the beautiful mercy and peace and
+                                    </li>  
+                                    <li class="list-item text-muted">
+                                    <b>INTEGRITY:</b> honesty in all our services and proper use of resources.
+                                    </li>  
+                                    <li class="list-item text-muted">
+                                    <b>DEDICATION:</b> determination and passionate in carrying out services to the beneficiaries without discrimination.
+                                    </li>    
+                                    <li class="list-item text-muted">
+                                    <b>TRANSPARANCY:</b> being open in all undertaking of services to the beneficiaries without discrimination.
+                                    </li>                                         
+                                </ol>
+                            </div>
+                           
+                        </div>
+                    </div>  
+                </div>
+            </div>
+        </section>
         <!-- Team-->
         <section class="page-section bg-light" id="team">
             <div class="container">
@@ -371,17 +510,17 @@
                     <h3 class="section-subheading text-muted">Our team is composed with open-minded people.</h3>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-12 h-100 d-flex justify-content-center align-items-center">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/11.JPG" alt="..." />
                             <h4>Ismail Adrien</h4>
-                            <p class="text-muted">Founder & CEO</p>
+                            <p class="text-muted">Founder - Chairman and CEO</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-4">
+                    <!-- <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="assets/img/team/22.JPG" alt="..." />
                             <h4>Mariamu Bagula</h4>
@@ -400,7 +539,7 @@
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <!-- <div class="row">
                     <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
@@ -432,8 +571,19 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Feel free to contact us by using this space.</h3>
+                    <h2 class="section-heading text-uppercase">Contact Us</h2>                   
+                    <h3 class="section-subheading text-muted">You can contact us throught the email provided below or you can also call us via: </h3>
+                </div>
+                <div class="text-left">
+                    <h5 class=" text-light"> 
+                        <ul class="list-group">
+                            <li class="list-item contact-us">Dial : +61475104657 or </li>
+                            <li class="list-item contact-us">Email: ismailadrien37@gmail.com <span class="text-muted"> or </span> </li>
+                            <li class="list-item contact-us" style="margin-left: 62px">evaristeadrien@gmail.com </li>
+                        </ul>
+                    </h5>
+                    <hr style="color: #fff; background: #fff; height: 2px;">
+                    <h3 class="text-muted" style="margin-bottom: 20px;">Feel free to contact us by using this space.</h3>
                 </div>
                 <!-- * * * * * * * * * * * * * * *-->
                 <!-- * * SB Forms Contact Form * *-->
@@ -490,6 +640,7 @@
                     <!-- Submit Button-->
                     <div class="text-center"><button class="btn btn-primary btn-xl text-uppercase disabled" id="submitButton" type="submit">Send Message</button></div>
                 </form>
+                
             </div>
         </section>
 
@@ -526,7 +677,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Training</h2>
                                     <p class="item-intro text-muted">Uvira territory</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/11.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/18.JPG" alt="..." />
                                     <p>
                                         In 2019, We trained 100 Widows in different trades in Uvira Territory and support 91 of them with small capital to undertake small income generating activities in order to fight poverty and misery in their Households or community.
                                     </p>
@@ -563,7 +714,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">School Rehabilitation</h2>
                                     <p class="item-intro text-muted">Plaine of Ruzizi</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/22.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/16.JPG" alt="..." />
                                     <p>
                                         In 2019, We rehabilitated Muslim School in Plaine of Ruzizi  
                                     </p>
@@ -638,7 +789,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Food Parcel</h2>
                                     <p class="item-intro text-muted">Sange and Dzaleka Refugee Camp</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/44.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/13.JPG" alt="..." />
                                     <p>
                                         In 2021, We have Distributed Food Parcel to 100 Older people in Dzaleka Refugee camp Malawi and 100 in DRC Sange City.
                                     </p>
@@ -675,7 +826,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Healthcare</h2>
                                     <p class="item-intro text-muted">Sange and Kanga Village</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/55.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/9.JPG" alt="..." />
                                     <p>
                                         In 2021, We have started to built Healthcare in Kanga Village / DRC. 
                                         We organized 4 awareness sessions on menstrual hygiene, Covid19 and distributed 500 Cotex to young girls and widows in Sange City. 
@@ -713,7 +864,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Tailoring Machine</h2>
                                     <p class="item-intro text-muted">Kanga village & Plaine of Ruzizi</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/66.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/15.JPG" alt="..." />
                                     <p>
                                     	In 2021, We have started to built Healthcare in Kanga Village / DRC and we have provided 20 widows with tailoring machine in Plaine of Ruzizi.
                                     </p>
@@ -751,7 +902,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Borehole Construction</h2>
                                     <p class="item-intro text-muted">In Uvira Territory</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/77.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/projects/6.JPG" alt="..." />
                                     <p>
                                         We have built 1 Bowell water in DRC - Kigoma Village.
                                     </p>
@@ -825,7 +976,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Meat Distribution</h2>
                                     <p class="item-intro text-muted">Dzaleka Refugee Camp, Dowa, Malawi.</p>
-                                    <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/99.JPG" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="assets/img/team/33.JPG" alt="..." />
                                     <p>
                                         We have distributed 300 Meat packed to more than 300 Households Refugees in Malawi and Hosting community in November 2021
                                     </p>
