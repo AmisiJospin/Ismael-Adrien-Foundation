@@ -394,7 +394,7 @@
                     <li class="timeline-inverted">
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">Vison</h4>
+                                <h4 class="subheading">Our Vison</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">
                                 Our vision to unite peoples and serving humanity.
